@@ -64,7 +64,7 @@
 [![](https://img.shields.io/badge/-@SarahAnjumAnsari-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sarah-anjum-ansari-66bb4826b/)
 [![](https://img.shields.io/badge/-@SarahAnsari-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarahansari633@gmail.com)
 [![](https://img.shields.io/badge/-@sarahansari-2EC866?style=for-the-badge&logo=Hackerrank&logoColor=white)](https://hackerrank.com/sarahansari633)
-[![](https://img.shields.io/badge/-SarahAnsari.github.io-000000?style=for-the-badge&logo=Grav&logoColor=white)](https://github.com/Sarah-Ansari)
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sarah-Ansari)
 
 ---
 
