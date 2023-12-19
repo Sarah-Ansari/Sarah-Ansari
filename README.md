@@ -61,10 +61,10 @@
 
 <!-- 
 [![](https://img.shields.io/badge/-@saquibansari0101-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/saquibansari0101) -->
-[![](https://img.shields.io/badge/-@SarahAnjumAnsari-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sarah-anjum-ansari)
-[![](https://img.shields.io/badge/-@Sarah-Ansari-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarahansari633@gmail.com)
-[![](https://img.shields.io/badge/-@saquib__ansari-2EC866?style=for-the-badge&logo=Hackerrank&logoColor=white)](https://hackerrank.com/saquib_ansari)
-[![](https://img.shields.io/badge/-Sarah-Ansari.github.io-000000?style=for-the-badge&logo=Grav&logoColor=white)](http://Sarah-Ansari.github.io/)
+[![](https://img.shields.io/badge/-@SarahAnjumAnsari-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sarah-anjum-ansari-66bb4826b/)
+[![](https://img.shields.io/badge/-@SarahAnsari-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarahansari633@gmail.com)
+[![](https://img.shields.io/badge/-@sarahansari-2EC866?style=for-the-badge&logo=Hackerrank&logoColor=white)](https://hackerrank.com/sarahansari633)
+[![](https://img.shields.io/badge/-SarahAnsari.github.io-000000?style=for-the-badge&logo=Grav&logoColor=white)](http://Sarah-Ansari.github.io/)
 
 ---
 
